@@ -1,3 +1,7 @@
+# Add API keys
+
+Add API keys to the src/main/resources/application.conf for [exchangeratesapi.io](https://exchangeratesapi.io) and [exchangerate.host](https://exchangerate.host).
+
 # Setup the app
 
 * run `sbt test`
