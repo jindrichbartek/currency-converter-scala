@@ -7,7 +7,7 @@ Add API keys to the src/main/resources/application.conf for [exchangeratesapi.io
 * run `sbt test`
 * run `sbt run`
 
-## Interactinng with app
+## Interacting with an app
 
 After starting the app with `sbt run`:
 
